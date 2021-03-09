@@ -1,5 +1,5 @@
-1. Install the script dependencies by running the command: pip install -r requirements.txt
-
-2. Script Usage: python download_images.py run -u <API URL> -p <DOWNLOAD PATH>
+1. Get all the files present in this repo to one directory. 
+2. Install the script dependencies by running the command: "pip install -r requirements.txt"
+3. Script Usage: python download_images.py run -u <API URL> -p <DOWNLOAD PATH>
 
     Example command: python download_images.py run -u "http://preorder.sqdash.co/api/webservices/shop/getproducts?bid=59" -p "/home/saikiran/Documents/upworkd/c1/downloads"
